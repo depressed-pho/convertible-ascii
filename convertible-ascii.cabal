@@ -29,9 +29,12 @@ Source-Repository head
 
 Library
     Build-Depends:
-        ascii            == 0.0.*,
-        base             == 4.*,
-        convertible-text == 0.4.*
+        ascii                == 0.0.*,
+        base                 == 4.*,
+        base-unicode-symbols == 0.2.*,
+        bytestring           == 0.9.*,
+        convertible-text     == 0.4.*,
+        failure              == 0.1.*
 
     Exposed-Modules:
         Data.Convertible.Instances.Ascii
