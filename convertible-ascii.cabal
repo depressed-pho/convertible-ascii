@@ -8,7 +8,7 @@ Description:
     .
       * <http://hackage.haskell.org/package/ascii>
     .
-Version:       0.1
+Version:       0.1.0.1
 License:       PublicDomain
 License-File:  COPYING
 Author:        PHO <pho at cielonegro dot org>

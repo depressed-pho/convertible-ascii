@@ -1,5 +1,6 @@
 {-# LANGUAGE
     FlexibleContexts
+  , FlexibleInstances
   , MultiParamTypeClasses
   , TemplateHaskell
   , TypeSynonymInstances
